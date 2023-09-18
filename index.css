@@ -1,0 +1,9 @@
+@import url("Styles\\navbar.css");
+@import url("Styles\\grid.css");
+@import url("Styles\\logo.css");
+@import url("Styles\\header.css");
+@import url("Styles\\footer.css");
+*{
+    margin: 0;
+    padding: 0;
+}
