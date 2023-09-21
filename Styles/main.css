@@ -1,9 +1,7 @@
 .text-color-grey{
     color: #777;
 }
-h2{
-    padding-top: 20px;
-}
+
 .text-center{
     text-align: center;
 }
@@ -11,9 +9,7 @@ h2{
     width: 100%;
     border-radius: 6px;
 }
-p{
-    margin: 0 0 10px;
-}
+
 .grid-container{
     padding-bottom: 30px;
     display: grid;
@@ -36,7 +32,4 @@ p{
     border: 1px solid transparent;
     border-radius: 4px;
     text-align: center;
-}
-a{
-    text-decoration: none;
 }

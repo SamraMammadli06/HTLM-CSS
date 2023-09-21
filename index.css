@@ -4,8 +4,5 @@
 @import url("Styles\\header.css");
 @import url("Styles\\footer.css");
 @import url("Styles\\main.css");
+@import url("Styles\\normalize.css");
 
-*{
-    margin: 0;
-    padding: 0;
-}
