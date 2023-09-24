@@ -30,4 +30,16 @@
 .sub-menu-triger:hover .sub-menu{
     display:block;
 }
+@media (max-width:800px) {
+    nav > input, button {
+        visibility: hidden;
+    }
+    
+    nav > a:not(:first-child) {
+        visibility: hidden;
+    }
 
+    nav > a:first-child{
+        font-size: 35px;
+    }
+}

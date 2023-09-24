@@ -33,3 +33,11 @@
     border-radius: 4px;
     text-align: center;
 }
+@media (max-width:600px) {
+    .grid-container{
+        display: grid;
+        gap: 10px;
+        grid-template-columns: repeat(1,1fr);
+        grid-template-rows: repeat(3,1fr);
+    }
+}
