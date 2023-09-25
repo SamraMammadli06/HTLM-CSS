@@ -37,16 +37,17 @@
 .sub-menu-triger:hover .sub-menu{
     display:block;
 }
-@media (max-width:800px) {
-    nav > input, button {
+
+@media (max-width:1000px) {
+    nav> div > input, button {
         visibility: hidden;
     }
     
-    nav > a:not(:first-child) {
+    nav>div > a:not(:first-child) {
         visibility: hidden;
     }
 
-    nav > a:first-child{
+    nav>div > a:first-child{
         font-size: 35px;
     }
 }
