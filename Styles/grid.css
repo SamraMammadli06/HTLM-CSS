@@ -5,7 +5,7 @@
       "head head head head"
       "main main main main"
       "foot foot foot foot";
-    grid-template-rows: 1fr,1fr,1fr,1fr;
+    grid-template-rows: 1fr,1fr,2fr,1fr;
     grid-template-columns: repeat(4,1fr);
 }
 .page > header {

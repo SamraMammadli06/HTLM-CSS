@@ -19,10 +19,17 @@
 }
 .right-elements{
     float:right;
-    margin: 14px;
-    padding: 5px 10px ;
+    margin-top: 10px;
+    padding: 8px 10px ;
+    border-radius: 5px;
 }
+.to-right{
+    margin-right: 150px;
 
+}
+.to-left{
+    margin-left: 150px;
+}
 .sub-menu{
     list-style: none;
     display: none;
